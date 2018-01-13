@@ -5,5 +5,5 @@ Peek Admin Documentation
 ++++++++++++++++++++++++
 
 
-This Peek Admin documentation will provide useful information and tips on how to use the
-Peek platform.
+This Peek Admin documentation will provide documentation for administering and
+developing peek plugins.
