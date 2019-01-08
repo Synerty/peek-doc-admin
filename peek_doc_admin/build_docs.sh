@@ -21,7 +21,7 @@ LINK_DIR="$path/doc_link"
 rm -rf ${OUT_DIR}
 
 # Add the source and dest paths
-ARGS=" ${SRC_DIR} ${OUT_DIR}"
+ARGS=" -b latex ${SRC_DIR} ${OUT_DIR}"
 
 echo "Running sphinx-autobuild with args :"
 echo "$ARGS"
