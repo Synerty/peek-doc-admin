@@ -16,7 +16,6 @@ cd $path
 
 SRC_DIR="$path"
 OUT_DIR="$path/doc_dist_latex"
-LINK_DIR="$path/doc_link"
 
 rm -rf ${OUT_DIR}
 
