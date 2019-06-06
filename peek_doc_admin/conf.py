@@ -25,7 +25,7 @@ title = 'Synerty Peek - Administration Documentation'
 __project__ = 'SynertyPeek-AdminDocs'
 __copyright__ = '2019, Synerty'
 __author__ = 'Synerty'
-__version__ = '1.3.0'
+__version__ = '1.3.1'
 
 import sphinx_rtd_theme
 
